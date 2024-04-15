@@ -13,14 +13,6 @@
     <li><strong>Flutter:</strong> Flutter é um framework de desenvolvimento de aplicativos móveis desenvolvido pelo Google, que permite a criação de aplicativos nativos para iOS e Android a partir de um único código-fonte.</li>
 </ul>
 
-<h2>Playstore - app</h2>
-<a href="https://play.google.com/store/apps/details?id=amttdetra.horarios_transporte">Link para download</a>
-<p>
-  <img src="https://play-lh.googleusercontent.com/P_uWYRcqhXS07iKI2F7WniWmiIx0K7DInu7pYrJ4Bix0-wR8r2JmxCWd88GzI_uxizs=w526-h296" />
-  <img src="https://play-lh.googleusercontent.com/ll3JU3eU-Z1ounpBLB6f2cs8jiE9kslpxotCeg2QLxtHsEVV2kvVpwK46Uz8tCH2RSks=w526-h296" />
-  <img src="https://play-lh.googleusercontent.com/proAqvcxAPnT0Z3y2DkY1DLc5lxWnesnFRD1zUQx6fafaxCG40fOVXOauL9sqvqET2dV=w526-h296" />
-</p>
-
 <h2>Contribuição</h2>
 <p>Esta versão do aplicativo Táxi Legal - PG ainda não foi implementada, mas está aberta para contribuições e sugestões. Se você tiver ideias para melhorar o conceito do aplicativo ou deseja colaborar com o desenvolvimento, sinta-se à vontade para entrar em contato ou enviar suas contribuições.</p>
 
